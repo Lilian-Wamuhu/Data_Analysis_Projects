@@ -1,5 +1,5 @@
 # Would You Change Your Eating Habits to Reduce Your Carbon Footprint?
-<img src="[https://static01.nyt.com/images/2019/04/30/dining/food-climate-faq-1556227069074/food-climate-faq-1556227069074-videoSixteenByNineJumbo1600.jpg" alt="Image description](https://static01.nyt.com/images/2019/04/24/us/your-diet-carbon-footprint-quiz-promo-1556139493539/your-diet-carbon-footprint-quiz-promo-1556139493539-superJumbo-v2.jpg)" width="800" height="400">
+<img src="[https://static01.nyt.com/images/2019/04/30/dining/food-climate-faq-1556227069074/food-climate-faq-1556227069074-videoSixteenByNineJumbo1600.jpg" alt="Image description](https://static01.nyt.com/images/2019/04/24/us/your-diet-carbon-footprint-quiz-promo-1556139493539/your-diet-carbon-footprint-quiz-promo-1556139493539-superJumbo-v2.jpg](https://static01.nyt.com/images/2019/04/24/us/your-diet-carbon-footprint-quiz-promo-1556139493539/your-diet-carbon-footprint-quiz-promo-1556139493539-superJumbo-v2.jpg)" width="800" height="400">
 
 Food, like everything else we buy, has a carbon footprint. Five billion tonnes of carbon dioxide equivalent are produced annually by agriculture and livestock production. It's easy to overlook how much work goes into producing our food, from seed to mouth. So here are a few facts you might not know about the carbon footprint of your favorite dishes.
 
