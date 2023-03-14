@@ -49,4 +49,6 @@ From the data we analyze:
 From the questions above we can conclude that there are simple food choices we can make that would reduce carbon footprint. We can reduce consumption of red meat and dairy. Going vegan is not a requirement in this situation but one could simply consume fewer of the beef, lamb, and cheese foods, which have the largest carbon footprints and alternatively consume pork, chicken, eggs, and fish which are good because they have a smaller environmental impact. However, plant-based foods like beans, grains, and soy are typically the most environmentally friendly choices.
 
 **_Knowing what you know now would you change your eating habits to reduce your carbon footprint?_**
+:thinking:
+
 
