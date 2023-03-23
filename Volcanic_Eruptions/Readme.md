@@ -22,6 +22,8 @@ The data used provides a summary of a pay-walled Nature article about the effect
 
 >From the analysis, the category of volcanoes that have the highest effects on population are those with Stratovolcano. Stratovolcanoes, also known as composite volcanoes, are tall, steep-sided volcanic mountains built from alternating layers of lava and ash. They are typically cone-shaped and have a symmetrical appearance. Stratovolcanoes are some of the most destructive and deadly volcanoes, as they can produce explosive eruptions that eject large amounts of ash, lava, and other volcanic materials. These eruptions can cause significant damage to nearby communities, including the destruction of buildings, roads, and other infrastructure, as well as loss of life due to ash fall, pyroclastic flows, and lahars. Examples of stratovolcanoes include Mount St. Helens in the United States, Mount Fuji in Japan, and Mount Pinatubo in the Philippines.
 
+<img src="
+
 >Its followed by Complex Volcanic field, Caldera, Pyroclastic cone(s), Lava dome(s), Shield, Caldera(s), Maar(s) and Pyroclastic cone.
 
 **_Visualization of the tectonic plates around the globe_**
@@ -29,7 +31,7 @@ The data used provides a summary of a pay-walled Nature article about the effect
 >The Earth's surface is made up of rock slabs that are gently moving directly under our feet, according to the plate tectonic theory. Today's Earth is very different from what it was millions of years ago due to its constant movement.
 Here is a visualization of the tectonic plates around the globe:
 
-
+<img src="https://github.com/Lilian-Wamuhu/Data_Analysis_Projects/blob/main/Volcanic_Eruptions/Plots/tectonic%20plates.png?raw=true">
 
 >The largest tectonic plates are the Pacific Plate, the North American Plate, the Eurasian Plate, the African Plate, the Antarctic Plate, and the South American Plate. The boundaries between plates are where earthquakes and volcanic activity are most likely to occur.
 
@@ -38,6 +40,6 @@ Here is a visualization of the tectonic plates around the globe:
 >Volcanic eruptions don't just happen randomly, they only happen in specified regions. This is due to the Earth's crust being divided into a number of tectonic plates. Although these plates are rigid, they "float" on a hotter, softer layer in the Earth's interior. As the plates move, they spread apart, collide, or slide past each other.
 >Sixty percent of all active volcanoes occur at the boundaries between tectonic plates. Most volcanoes are found along a belt, called the “Ring of Fire” that encircles the Pacific Ocean.
 
-Image
+<img src="https://github.com/Lilian-Wamuhu/Data_Analysis_Projects/blob/main/Volcanic_Eruptions/Plots/locations.png?raw=true">
 
 >The above data supports the theory that Japan, Indonesia, United States, Russia and Iceland are the top 5 locations with the most active volcanoes since 1800.
