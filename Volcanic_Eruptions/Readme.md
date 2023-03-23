@@ -1,9 +1,7 @@
 # Key Facts about Volcanic Eruptions
 
 <img src="https://cdn.dribbble.com/users/85699/screenshots/3685386/1497320539112.jpeg?compress=1&resize=400x300&vertical=top">
-     
-The data used provides a summary of a pay-walled Nature article about the effects of volcanic eruptions on global climate over the past 2,500 years. The article uses tree ring records to match the effects of eruptions on climate and reinforces evidence that volcanic eruptions can have long-lasting global effects. It also mentions specific historical accounts, including the impact of volcanic eruptions in the sixth-century Roman Empire and their potential contribution to the decline of the Maya empire.
-
+   
 **What is volcanic eruption?**
 
 >A volcanic eruption is the release of magma, ash, gases, and other materials from a volcano. Eruptions can range from relatively mild to extremely violent, and can have various impacts on the environment and human populations. The severity of an eruption depends on various factors such as the composition of the magma, the gas content, and the structure of the volcano.
@@ -43,3 +41,7 @@ Here is a visualization of the tectonic plates around the globe:
 <img src="https://github.com/Lilian-Wamuhu/Data_Analysis_Projects/blob/main/Volcanic_Eruptions/Plots/locations.png?raw=true">
 
 >The above data supports the theory that Japan, Indonesia, United States, Russia and Iceland are the top 5 locations with the most active volcanoes since 1800.
+
+# Summary
+
+The data used provides a summary of a pay-walled Nature article about the effects of volcanic eruptions on global climate over the past 2,500 years. The article uses tree ring records to match the effects of eruptions on climate and reinforces evidence that volcanic eruptions can have long-lasting global effects. It also mentions specific historical accounts, including the impact of volcanic eruptions in the sixth-century Roman Empire and their potential contribution to the decline of the Maya empire.
