@@ -22,7 +22,7 @@ The data used provides a summary of a pay-walled Nature article about the effect
 
 >From the analysis, the category of volcanoes that have the highest effects on population are those with Stratovolcano. Stratovolcanoes, also known as composite volcanoes, are tall, steep-sided volcanic mountains built from alternating layers of lava and ash. They are typically cone-shaped and have a symmetrical appearance. Stratovolcanoes are some of the most destructive and deadly volcanoes, as they can produce explosive eruptions that eject large amounts of ash, lava, and other volcanic materials. These eruptions can cause significant damage to nearby communities, including the destruction of buildings, roads, and other infrastructure, as well as loss of life due to ash fall, pyroclastic flows, and lahars. Examples of stratovolcanoes include Mount St. Helens in the United States, Mount Fuji in Japan, and Mount Pinatubo in the Philippines.
 
-<img src="
+<img src="https://github.com/Lilian-Wamuhu/Data_Analysis_Projects/blob/main/Volcanic_Eruptions/Plots/volcano.png?raw=true">
 
 >Its followed by Complex Volcanic field, Caldera, Pyroclastic cone(s), Lava dome(s), Shield, Caldera(s), Maar(s) and Pyroclastic cone.
 
