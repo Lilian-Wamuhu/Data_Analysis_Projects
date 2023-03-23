@@ -29,7 +29,7 @@ The data used provides a summary of a pay-walled Nature article about the effect
 >The Earth's surface is made up of rock slabs that are gently moving directly under our feet, according to the plate tectonic theory. Today's Earth is very different from what it was millions of years ago due to its constant movement.
 Here is a visualization of the tectonic plates around the globe:
 
-Tectonic Plates Map
+<img src="file:///C:/Users/Lilian%20Wamuhu/Downloads/tectonic%20plates.png">
 
 >The largest tectonic plates are the Pacific Plate, the North American Plate, the Eurasian Plate, the African Plate, the Antarctic Plate, and the South American Plate. The boundaries between plates are where earthquakes and volcanic activity are most likely to occur.
 
