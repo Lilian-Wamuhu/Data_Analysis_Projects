@@ -122,7 +122,7 @@ There are several global trends in data protection that are worth noting:
 
 Overall, data protection is becoming increasingly important globally, with governments and consumers alike demanding greater protection for personal data. This trend is likely to continue, with more countries strengthening their data protection laws and implementing more stringent measures to protect personal data.
 
-## More insights.
+## More insights
 
 The analysis resulted in the following insights:
 
