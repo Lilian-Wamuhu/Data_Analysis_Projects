@@ -31,9 +31,8 @@ The analysis resulted in the following insights:
 
 **_Most expensive violation by country, listing the specific violation type e.g failure to comply with processing regulation._**
 
->The most expensive GDPR violation in terms of the associated fine was related to Article 32 - Security of processing.
 
-<img src="https://github.com/Lilian-Wamuhu/Data_Analysis_Projects/blob/main/GDPR_Violations/Plot/Time_Breakdown.png?raw=true">
+<img src="https://github.com/Lilian-Wamuhu/Data_Analysis_Projects/blob/main/GDPR_Violations/Plot/Most%20expensive%20violation.png?raw=true">
 
 **_Companies with the highest violations._**
 
@@ -49,9 +48,26 @@ The analysis resulted in the following insights:
 
 **_Top 10 most violated articles_**
 
+>The most violated GDPR article was Article 32, which deals with security of processing, with a total of 40 violations.
 >The top 10 most violated articles were related to data processing, data subject rights, and data breaches.
 
+| Most Violated Articles   | no.of Violation |
+| ------------- | ------------- |
+| Art. 32 GDPR |  40  |
+| Art. 6 GDPR  |  33 |
+| Art. 5 GDPR Art. 6, GDPR  | 20  |
+| Art. 15 GDPR  | 10  |
+| Art. 5 GDPR  | 10 |
+| Art. 5 (1) f) GDPR, Art. 32 GDPR   | 10 |
+| Art. 5 (1) f), GDPR  | 7  |
+| Art. 13 GDPR  | 7  |
+| Art. 5 (1) a) GDPR, Art. 6 GDPR  | 6  |
+| Art. 5 (1) c) GDPR  | 6  |
+
+
 **_Article with the highest associated fine_**
+
+>The most expensive GDPR violation in terms of the associated fine was related to Article 32 - Security of processing.
 
 # Conclusion
 
