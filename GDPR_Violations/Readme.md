@@ -9,6 +9,7 @@ Given the rise in use of data and the proliferation of companies such as Google 
 Failure to comply with GDPR will result in hefty fines or strict actions, depending on the violation. Severe violation will subject to 4% of annual global turnover or €20 million – whichever is higher. Less severe violation will subject to 2% of annual global turnover or €10 million – whichever is higher. Other actions include written warning, temporary or permanent ban, data deletion, and restriction on data transfers. Ultimately this leads to a loss in trust and reputation. 
 
 **_Time breakdown of the total violations in the EU_**
+
 <img src="https://github.com/Lilian-Wamuhu/Data_Analysis_Projects/blob/main/GDPR_Violations/Plot/Time_Breakdown.png?raw=true">
 
 
@@ -26,8 +27,6 @@ Failure to comply with GDPR will result in hefty fines or strict actions, depend
 
 **_Top 10 most violated articles_**
 
-<img src="">
 
 **_Article with the highest associated fine_**
 
-<img src="">
