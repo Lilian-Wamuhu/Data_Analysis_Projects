@@ -52,6 +52,40 @@ Non-compliance with these principles can result in legal and financial consequen
 
 **Document your understanding of challenges (Prepare a slide providing context to your potential audience) faced in Kenya when it comes to effective implementation of the DPA.**
 
+Here is a slide that provides context to potential audience on the challenges faced in Kenya when it comes to effective implementation of the DPA:
+
+[Slide Title: Challenges in implementing the Data Protection Act (DPA) in Kenya]
+
+[Slide Content:]
+
+Introduction: 
+
+>The Data Protection Act (DPA) was signed into law in Kenya in November 2019, but its effective implementation has been challenging. This slide provides an overview of the challenges faced in Kenya when it comes to implementing the DPA.
+
+Limited awareness: 
+
+>One of the main challenges is a lack of awareness and understanding of the DPA among businesses and individuals. Many businesses are not aware of their obligations under the law, while individuals are not aware of their rights.
+
+Insufficient resources: 
+
+>Another challenge is the lack of sufficient resources for the implementation of the DPA. This includes the lack of adequate funding, skilled personnel, and infrastructure for data protection authorities.
+
+Limited enforcement: 
+
+>The DPA requires the establishment of a data protection authority to enforce the law. However, Kenya has not yet established this authority, which has limited the enforcement of the DPA.
+
+Limited capacity: 
+
+>Even when the data protection authority is established, there are concerns about its capacity to enforce the law effectively. This includes the authority's ability to investigate and prosecute cases of non-compliance.
+
+Cultural attitudes: 
+
+>Cultural attitudes towards data privacy and protection may also pose challenges to the effective implementation of the DPA. For example, some Kenyans may be hesitant to exercise their rights under the law due to cultural beliefs about sharing personal information.
+
+Conclusion: 
+
+>Effective implementation of the DPA in Kenya requires addressing these challenges, including raising awareness, providing sufficient resources, establishing a strong data protection authority, and addressing cultural attitudes towards data privacy and protection.
+
 ## What businesses need to do to achieve compliance.
 
 To achieve compliance with data protection regulations, businesses should take the following steps:
@@ -88,7 +122,7 @@ There are several global trends in data protection that are worth noting:
 
 Overall, data protection is becoming increasingly important globally, with governments and consumers alike demanding greater protection for personal data. This trend is likely to continue, with more countries strengthening their data protection laws and implementing more stringent measures to protect personal data.
 
-## More insight.
+## More insights.
 
 The analysis resulted in the following insights:
 
@@ -137,7 +171,16 @@ The analysis resulted in the following insights:
 
 **_Article with the highest associated fine_**
 
->The most expensive GDPR violation in terms of the associated fine was related to Article 32 - Security of processing.
+>The most expensive GDPR violation in terms of the associated fine was related to Art. 13 GDPR,Art. 14 GDPR,Art. 6 GDPR,Art. 4 GDPR,Art. 5 GDPR.
+Top 5 article with the highest associated fine.
+
+| Highest Associated Fine | Fine |
+| ------------- | ------------- |
+| Art. 13 GDPR,Art. 14 GDPR,Art. 6 GDPR,Art. 4 GDPR,Art. 5 GDPR  | 50000000  |
+| Art. 58(2) GDPR  | 27802946 |
+| Art. 5 (1) a) GDPR,Art. 6 GDPR  | 18000000  |
+| Art. 5 GDPR,Art. 25 GDPR  | 14500000  |
+| Art. 32 GDPR   | 9550000  |
 
 # Conclusion
 
